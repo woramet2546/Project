@@ -629,7 +629,7 @@ p{
     height: 550px;
     width:1000px;
     display: flex;
-    background: url(./Wolrd\ 5g\ slide.jpg);
+    background: url(./Image/SlideTwo.png);
     background-position:center;
     background-size: cover;
     animation: slide 12s infinite;
