@@ -641,7 +641,7 @@ p{
 
 @keyframes slide{
     20%{
-        background: url(./Image/Wolrd\ 5g\ slide.jpg);
+        background: url(./Image/two.jpg);
     }
    
     50%{
@@ -649,7 +649,7 @@ p{
     }
 
     75%{
-        background: url(./Image/Wolrd\ 5g\ slide.jpg);
+        background: url(./Image/two.jpg);
     }
    
     100%{
